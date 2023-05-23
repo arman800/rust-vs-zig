@@ -16,7 +16,7 @@ body {
 }
 
 .embeded_trollie {
-    animation: troll 0s 20s forwards;
+    animation: troll 0s 30s forwards;
     position: absolute;
     top: 0px;
     left: 0px;
